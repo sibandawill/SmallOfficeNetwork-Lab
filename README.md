@@ -9,7 +9,7 @@ This homelab is designed to practice basic fundamental network configuration.
 - Practice troubleshooting
 
 ## Network Summary
-- Router: Cisco ISR
-- Switch: Cisco Catalyst
+- Router: Cisco ISR 4331
+- Switch: Cisco Catalyst 2960
 - Clients: Five PCs
 
